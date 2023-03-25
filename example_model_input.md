@@ -62,3 +62,16 @@ X: image tensor
           [0.7637, 0.5361, 0.1582, 0.0850],
           [0.5811, 0.4307, 0.0850, 0.0723]])})
 ```
+
+
+## Labels
+'0'-'9': 0-9
+'a'-'z': 10-35
+Empty node: 36
+Filled node: 37
+Undirected edge, BL-TR: 38
+Undirected edge, BR-TL: 39
+Directed edge, BL-TR: 40
+Directed edge, TR-BL: 41
+Directed edge, BR-TL: 42
+Directed edge, TL-BR: 43
