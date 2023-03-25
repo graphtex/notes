@@ -1,7 +1,7 @@
 X: image tensor
 
 
-## y
+## Y
 ```
 {'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
@@ -65,13 +65,13 @@ X: image tensor
 
 
 ## Labels
-'0'-'9': 0-9
-'a'-'z': 10-35
-Empty node: 36
-Filled node: 37
-Undirected edge, BL-TR: 38
-Undirected edge, BR-TL: 39
-Directed edge, BL-TR: 40
-Directed edge, TR-BL: 41
-Directed edge, BR-TL: 42
-Directed edge, TL-BR: 43
+- '0'-'9': 0-9
+- 'a'-'z': 10-35
+- Empty node: 36
+- Filled node: 37
+- Undirected edge, BL-TR: 38
+- Undirected edge, BR-TL: 39
+- Directed edge, BL-TR: 40
+- Directed edge, TR-BL: 41
+- Directed edge, BR-TL: 42
+- Directed edge, TL-BR: 43
